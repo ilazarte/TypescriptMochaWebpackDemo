@@ -14,3 +14,4 @@ Sample source code based on blog post: [How to setup testing using Typescript, M
 # Change Log:  
 
 - Mar 17, 2015 - Added post install step to automatically run typings install after npm install.
+- Mar 20, 2017 - Updated for latest modules across the board and removed typings for @types.
